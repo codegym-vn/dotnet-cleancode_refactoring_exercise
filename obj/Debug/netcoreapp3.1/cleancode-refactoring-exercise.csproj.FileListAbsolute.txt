@@ -1,0 +1,11 @@
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/cleancode-refactoring-exercise/bin/Debug/netcoreapp3.1/cleancode-refactoring-exercise
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/cleancode-refactoring-exercise/bin/Debug/netcoreapp3.1/cleancode-refactoring-exercise.deps.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/cleancode-refactoring-exercise/bin/Debug/netcoreapp3.1/cleancode-refactoring-exercise.runtimeconfig.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/cleancode-refactoring-exercise/bin/Debug/netcoreapp3.1/cleancode-refactoring-exercise.runtimeconfig.dev.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/cleancode-refactoring-exercise/bin/Debug/netcoreapp3.1/cleancode-refactoring-exercise.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/cleancode-refactoring-exercise/bin/Debug/netcoreapp3.1/cleancode-refactoring-exercise.pdb
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/cleancode-refactoring-exercise/obj/Debug/netcoreapp3.1/cleancode-refactoring-exercise.csprojAssemblyReference.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/cleancode-refactoring-exercise/obj/Debug/netcoreapp3.1/cleancode-refactoring-exercise.AssemblyInfoInputs.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/cleancode-refactoring-exercise/obj/Debug/netcoreapp3.1/cleancode-refactoring-exercise.AssemblyInfo.cs
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/cleancode-refactoring-exercise/obj/Debug/netcoreapp3.1/cleancode-refactoring-exercise.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/cleancode-refactoring-exercise/obj/Debug/netcoreapp3.1/cleancode-refactoring-exercise.pdb
